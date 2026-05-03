@@ -1,0 +1,6 @@
+Python adalah salah satu bahasa pemrograman 
+yang paling populer di dunia saat ini. 
+Bahasa ini pertama kali dikembangkan 
+oleh Guido van Rossum dan dirilis pada tahun 1991.
+Python dirancang dengan tujuan agar mudah dibaca dan dipahami, 
+sehingga sangat cocok untuk pemula yang baru belajar pemrograman.
